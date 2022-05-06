@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/*
+ =============================================================================
+                         Copyright 2006 Gennaro Prota.
+ =============================================================================
+*/
+
+#container {
+    background-color: white;
+    border-bottom: .1em solid #333333;
+    color: #333333;
+    font: 100% Verdana, sans-serif;
+    line-height: 1.1em;
+    margin: 0 auto;
+    width: 80%;
+}
+
+#header {
+    border-bottom: .08em solid #333333;
+    color: #006699;
+    font: 130% serif;
+    padding-bottom: .5em;
+}
+
+#main_content {
+    font-size: 81%;
+    padding: 0 .2em;
+}
+
+.subtitle {
+    color: #555555;
+    font-size: 90%;
+    margin-bottom: .1em;
+    margin-left: 1.5em;
+    margin-top: -1.3em;
+}
+
+a {
+    background-color: inherit;
+    color: #002bb8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#footer {
+    background-color: #fffaf0;
+    font-size: 75%;
+    margin-bottom: .3em;
+    padding-bottom: .2em;
+    padding-top: .2em;
+    text-align: center;
+}
