@@ -1,0 +1,12 @@
+# ============================================================================
+#                        Copyright 2022 Gennaro Prota.
+# ============================================================================
+<Subject>
+
+[Reason: <...>.]
+
+[Details on what, not how.]
+
+[Issue references, e.g. "This closes issue #n".]
+
+[Other keywords: <...>.]
